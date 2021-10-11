@@ -12,7 +12,7 @@
 ```javascript
 const Kwasi = {
   pronouns: "He" | "his",
-  code: [HTML5, CSS3, Javascript, Python],
+  code: [HTML5, CSS3, SASS, Boostrap, Javascript, Python],
   tools: [React, Express, Node, MongoDB, Django],
   
  challenge: "I am doing the #100DaysOfCode challenge focused on react"
