@@ -1,6 +1,6 @@
 
 <h2> Hi, I'm Kwasi Appiah Kubi! </h2>
-<p><em>Software Engineering Trainee at <a href="http://www.unb.br">General Assembly UK & Europe</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+<p><em>Software Engineering Trainee at <a href="http://www.unb.br">General Assembly UK & Europe</a>
 </em></p>
 
 [![Linkedin: kwasiiii](https://img.shields.io/badge/-kwasiappiahkubi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kwasi-appiah-kubi/)](https://www.linkedin.com/in/kwasi-appiah-kubi/)
