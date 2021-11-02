@@ -7,7 +7,7 @@
 [![GitHub kwasiiii](https://img.shields.io/github/followers/kwasiiii?style=social)](https://github.com/kwasiiii)
 
 
-### <img src="https://i.imgur.com/7HimGxg.gifv" width="50"> A little more about me...  
+### <img src="https://i.imgur.com/7HimGxg.gif" width="50"> A little more about me...  
 
 ```javascript
 const Kwasi = {
