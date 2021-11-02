@@ -23,4 +23,3 @@ const Kwasi = {
 
 ---
 
-<img src="https://imgur.com/Ca1KYg3">
