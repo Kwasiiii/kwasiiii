@@ -23,4 +23,4 @@ const Kwasi = {
 
 ---
 
-<img src ="![app flow](https://imgur.com/Ca1KYg3)"/>
+<img src="https://imgur.com/Ca1KYg3">
