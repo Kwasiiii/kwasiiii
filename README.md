@@ -15,7 +15,7 @@ const Kwasi = {
   code: [HTML5, CSS3, SASS, Boostrap, Javascript, Python],
   tools: [React, Express, Node, MongoDB, Django],
   
- challenge: "I am doing the #100DaysOfCode challenge focused on Python"
+ challenge: "I am doing the #100DaysOfCode challenge focused on typescript"
 }
 ```
 
